@@ -1,0 +1,13 @@
+.footer{
+	display:flex;
+	align-items: center;
+	justify-content: space-around;
+}
+.footer{
+	height: 200px;
+	width: 100%;
+	background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 35%, rgba(16,14,28,1) 100%);
+}
+.footer .liens ul, .footer .reseaux ul{
+	flex-direction: column;
+}

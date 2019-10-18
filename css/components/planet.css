@@ -1,0 +1,21 @@
+.planet{
+	left:788px;
+	bottom:20px;
+}
+.planet2{
+	bottom: 90px;
+}
+.planet3{
+	right:788px;
+	bottom: 20px;
+}
+
+.transition{
+	transition: all .2s ease-in-out;
+}
+.fixed{
+	position:absolute;
+}
+.planet:hover, .planet2:hover, .planet3:hover{
+	transform: scale(1.1);
+}

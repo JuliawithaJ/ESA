@@ -1,0 +1,24 @@
+@import url('components/header.css');
+@import url('components/mainpage.css');
+@import url('components/mouse.css');
+@import url('components/arc.css');
+@import url('components/planet.css');
+@import url('components/mars.css');
+@import url('components/footer.css');
+body{
+	background-image: url("https://res.cloudinary.com/dsd5xgbdi/image/upload/v1571219882/background_ocdrnh.jpg");
+	background-repeat: no-repeat;
+}
+h1{
+	font-family: 'Poppins', sans-serif;
+	color:#141122;
+	font-size: 3em;
+}
+h1 .light{
+	color:#F3EEEA;
+}
+
+body{
+	margin:0;
+	font-family: 'Poppins', sans-serif;
+}
